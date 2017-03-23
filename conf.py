@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# GlueLangDoc_jp documentation build configuration file, created by
+# GlueLangArch_jp documentation build configuration file, created by
 # sphinx-quickstart on Sat Feb 25 14:28:20 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'GlueLangDoc_jp'
+project = u'GlueLangArch_jp'
 copyright = u'2017, Ryuichi Ueda'
 author = u'Ryuichi Ueda'
 
@@ -202,7 +202,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'GlueLangDoc_jpdoc'
+htmlhelp_basename = 'GlueLangArch_jpdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -224,7 +224,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'GlueLangDoc_jp.tex', u'GlueLangDoc\\_jp Documentation',
+  (master_doc, 'GlueLangArch_jp.tex', u'GlueLangArch\\_jp Documentation',
    u'Ryuichi Ueda', 'manual'),
 ]
 
@@ -254,7 +254,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'gluelangdoc_jp', u'GlueLangDoc_jp Documentation',
+    (master_doc, 'gluelangdoc_jp', u'GlueLangArch_jp Documentation',
      [author], 1)
 ]
 
@@ -268,8 +268,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'GlueLangDoc_jp', u'GlueLangDoc_jp Documentation',
-   author, 'GlueLangDoc_jp', 'One line description of project.',
+  (master_doc, 'GlueLangArch_jp', u'GlueLangArch_jp Documentation',
+   author, 'GlueLangArch_jp', 'One line description of project.',
    'Miscellaneous'),
 ]
 
